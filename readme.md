@@ -12,7 +12,7 @@ The Basic Slither Game is written in JavaScript and utilizes HTML5 canvas for gr
 
 ## Installation
 
-Play directly [here](https://zukahai.github.io/slither.io/)
+Play directly [here](https://khaicybers.github.io/slither/)
 
 Or download and open the `index.html` file in a web browser.
 
@@ -25,4 +25,4 @@ Or download and open the `index.html` file in a web browser.
 
 ## Author
 
-- [Phan Đức Hải](./)
+- [Phan Duy Khải](./)
